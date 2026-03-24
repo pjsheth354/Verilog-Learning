@@ -1,3 +1,5 @@
+<h1>Verilog Learning</h1>
+
 This repository contains all the files and projects developed while learning Verilog HDL through a structured course. It covers fundamental to advanced concepts required for FPGA-based digital design and RTL development.
 
 The work includes implementation of key concepts such as modeling styles, blocking and non-blocking assignments, FSM design, memory structures, and testbench development. Multiple practical projects are also included to demonstrate real-world applications of Verilog in hardware design.
